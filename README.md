@@ -1,6 +1,6 @@
-### Pliki prywatnego serwera Messier od Aveo.
+ï»¿### Pliki prywatnego serwera Messier od Aveo.
 
 #### Pliki:
-+ aveo - plik uruchamiania skryptów backup i delete dla crontaba;
-+ delete.sh - skrypt kasuj¹cy stare backupy;
-+ backup.sh - skrypt tworz¹cy backupy dzienne.
++ aveo - plik uruchamiania skryptÃ³w backup i delete dla crontaba;
++ delete.sh - skrypt kasujÄ…cy stare backupy;
++ backup.sh - skrypt tworzÄ…cy backupy dzienne.
